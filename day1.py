@@ -18,11 +18,11 @@
 # print(a,b)
 
 
-print("YOU ARE GREAT")
+# print("YOU ARE GREAT")
 
-pet= input("Your Fav Pet ?\n") 
-city= input("Where are you live in ?\n")
+# pet= input("Your Fav Pet ?\n") 
+# city= input("Where are you live in ?\n")
 
-print("HEY YOUR CITY IS " + city +" AND YOUR FAV PET IS dog" + pet)
+# print("HEY YOUR CITY IS " + city +" AND YOUR FAV PET IS dog" + pet)
 
 
